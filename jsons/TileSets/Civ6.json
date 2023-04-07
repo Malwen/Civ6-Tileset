@@ -99,7 +99,7 @@
 	"Snow+Hill+Farm": ["Snow+Hill","Farm"],
 	"Plains+Wheat+Farm": ["Plains","Farm"],
 	"Desert+Wheat+Farm": ["Desert","Farm"],
-	"Desert+Flood plains+Wheat+Farm": ["Flood plains","Farm"],
+	"Desert+Flood plains+Wheat+Farm": ["Desert","Flood plains","Farm"],
 
 	//Oil Well
 	"Coast+Oil well": ["Coast","Oil WellC"],
