@@ -94,7 +94,7 @@
 	"Tundra+Hill+Farm": ["Tundra+Hill","Farm"],
 	"Desert+Farm": ["Desert","Farm"],
 	"Desert+Hill+Farm": ["Desert+Hill","Farm"],
-	"Desert+Flood plains+Farm": ["Flood plains","Farm"],
+	"Desert+Flood plains+Farm": ["Desert","Flood plains","Farm"],
 	"Snow+Farm": ["Snow","Farm"],
 	"Snow+Hill+Farm": ["Snow+Hill","Farm"],
 	"Plains+Wheat+Farm": ["Plains","Farm"],
