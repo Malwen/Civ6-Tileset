@@ -7,6 +7,7 @@
         "Grassland+Forest": ["Grassland","Forest"],
         "Grassland+Jungle": ["Grassland","Jungle"],
         "Grassland+Hill+Forest": ["Grassland+Hill","Forest"],
+	"Grassland+Hill+Jungle": ["Grassland+Hill","Jungle"],
         "Plains+Forest": ["Plains","Forest"],
         "Plains+Jungle": ["Plains","Jungle"],
         "Plains+Hill+Forest": ["Plains+Hill","Forest"],
