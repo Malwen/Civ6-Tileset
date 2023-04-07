@@ -10,9 +10,10 @@
         "Plains+Forest": ["Plains","Forest"],
         "Plains+Jungle": ["Plains","Jungle"],
         "Plains+Hill+Forest": ["Plains+Hill","Forest"],
+	"Plains+Hill+Jungle": ["Plains+Hill","Jungle"],
         "Tundra+Forest": ["Tundra","Forest"],
         "Tundra+Hill+Forest": ["Tundra+Hill","Forest"],
-
+	
 	//Barbarian encampment
 	"Tundra+Forest+Barbarian encampment": ["Tundra","Forest","Barbarian encampment"],
 	"Tundra+Hill+Barbarian encampment": ["Tundra+Hill","Barbarian encampment"],
