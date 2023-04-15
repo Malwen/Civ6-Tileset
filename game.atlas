@@ -713,35 +713,35 @@ TileSets/Civ6/Tiles/Trading post
   index: -1
 TileSets/Civ6/Tiles/Tundra
   rotate: false
-  xy: 1016, 308
-  size: 64, 64
-  orig: 64, 64
+  xy: 1016, 316
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Tundra+Hill
   rotate: false
-  xy: 1016, 244
+  xy: 1016, 252
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Tundra+Hill+Fallout
   rotate: false
-  xy: 1016, 116
+  xy: 1016, 124
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 1016, 52
+  xy: 1016, 60
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Tundra+Hill2
   rotate: false
-  xy: 1016, 180
+  xy: 1016, 188
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
