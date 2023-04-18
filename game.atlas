@@ -669,7 +669,7 @@ TileSets/Civ6/Tiles/Sri Pada
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Terrace Farm
+TileSets/Civ6/Tiles/Terrace farm
   rotate: false
   xy: 1932, 240
   size: 64, 64
