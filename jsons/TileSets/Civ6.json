@@ -18,6 +18,9 @@
         "Grassland+Hill+Forest+Lumber mill": ["Grassland+Hill","ForestUp","Lumber mill"],
         "Plains+Forest+Lumber mill": ["Plains","ForestUp","Lumber mill"],
         "Plains+Hill+Forest+Lumber mill": ["Plains+Hill","ForestUp","Lumber mill"],
+
+        //Terrace Farm
+        "Grassland+Terrace Farm": ["Grassland","Terrace Farm"],
 	
 	//Barbarian encampment
 	"Tundra+Forest+Barbarian encampment": ["Tundra","Forest","Barbarian encampment"],
