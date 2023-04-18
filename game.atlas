@@ -669,58 +669,65 @@ TileSets/Civ6/Tiles/Sri Pada
   orig: 64, 60
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Trading post
+TileSets/Civ6/Tiles/Terrace Farm
   rotate: false
-  xy: 1716, 245
-  size: 64, 56
-  orig: 64, 56
+  xy: 1932, 240
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Tundra
+TileSets/Civ6/Tiles/Trading post
   rotate: false
   xy: 1788, 192
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Tundra+Hill
+TileSets/Civ6/Tiles/Tundra
   rotate: false
   xy: 1860, 180
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Tundra+Hill+Fallout
+TileSets/Civ6/Tiles/Tundra+Hill
   rotate: false
-  xy: 728, 112
+  xy: 1932, 176
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Tundra+Hill+Fallout2
+TileSets/Civ6/Tiles/Tundra+Hill+Fallout
   rotate: false
   xy: 800, 120
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/Civ6/Tiles/Tundra+Hill2
-  rotate: false
-  xy: 1932, 184
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/Civ6/Tiles/Uluru
+TileSets/Civ6/Tiles/Tundra+Hill+Fallout2
   rotate: false
   xy: 721, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/Civ6/Tiles/Tundra+Hill2
+  rotate: false
+  xy: 728, 112
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/Civ6/Tiles/Uluru
+  rotate: false
+  xy: 872, 376
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/Civ6/TopBorder
   rotate: false
-  xy: 1932, 248
+  xy: 1716, 245
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
