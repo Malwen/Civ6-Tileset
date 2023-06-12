@@ -18,8 +18,8 @@
         "Grassland+Hill+Forest+Lumber mill": ["Grassland+Hill","ForestUp","Lumber mill"],
         "Plains+Forest+Lumber mill": ["Plains","ForestUp","Lumber mill"],
         "Plains+Hill+Forest+Lumber mill": ["Plains+Hill","ForestUp","Lumber mill"],
-	"Tundra+Forest+Lumber mill": ["Tundra","ForestUp","Lumber mill],
-		"Tundra+Hill+Forest+Lumber mill": ["Tundra+Hill","ForestUp","Lumber mill],		
+	"Tundra+Forest+Lumber mill": ["Tundra","ForestUp","Lumber mill"],
+		"Tundra+Hill+Forest+Lumber mill": ["Tundra+Hill","ForestUp","Lumber mill"],		
 
 	//Barbarian encampment
 	"Tundra+Forest+Barbarian encampment": ["Tundra","Forest","Barbarian encampment"],
