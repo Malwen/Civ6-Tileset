@@ -475,35 +475,35 @@ TileSets/Civ6/Tiles/JungleUp
   index: -1
 TileSets/Civ6/Tiles/Krakatoa
   rotate: false
-  xy: 872, 232
-  size: 64, 56
-  orig: 64, 56
+  xy: 1088, 368
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Landmark
   rotate: false
-  xy: 944, 232
+  xy: 1160, 368
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Lumber mill
   rotate: false
-  xy: 1088, 368
+  xy: 872, 224
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Lumber mill-Pillaged
   rotate: false
-  xy: 1016, 296
+  xy: 944, 232
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Lumber mill-Pillaged2
   rotate: false
-  xy: 1160, 368
+  xy: 1016, 296
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
