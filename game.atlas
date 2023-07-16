@@ -580,9 +580,9 @@ TileSets/Civ6/Tiles/Moai-Pillaged2
   index: -1
 TileSets/Civ6/Tiles/Mount Fuji
   rotate: false
-  xy: 1304, 227
-  size: 64, 56
-  orig: 64, 56
+  xy: 1304, 211
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Mount Kailash
@@ -601,7 +601,7 @@ TileSets/Civ6/Tiles/Mount Sinai
   index: -1
 TileSets/Civ6/Tiles/Mountain
   rotate: false
-  xy: 1304, 155
+  xy: 1304, 139
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -930,7 +930,7 @@ TileSets/Civ6/Tiles/Tundra+Hill+Fallout
   index: -1
 TileSets/Civ6/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 584, 180
+  xy: 1376, 84
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -944,7 +944,7 @@ TileSets/Civ6/Tiles/Tundra+Hill2
   index: -1
 TileSets/Civ6/Tiles/Uluru
   rotate: false
-  xy: 656, 180
+  xy: 1448, 63
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
