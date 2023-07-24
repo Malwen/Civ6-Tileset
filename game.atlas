@@ -125,9 +125,9 @@ TileSets/Civ6/Tiles/Cerro de Potosi
   index: -1
 TileSets/Civ6/Tiles/Citadel
   rotate: false
-  xy: 1212, 440
-  size: 64, 64
-  orig: 64, 64
+  xy: 1212, 432
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/City center
@@ -405,7 +405,7 @@ TileSets/Civ6/Tiles/Grassland+Hill+Fallout
   index: -1
 TileSets/Civ6/Tiles/Grassland+Hill+Fallout2
   rotate: false
-  xy: 1160, 376
+  xy: 1088, 312
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -419,14 +419,14 @@ TileSets/Civ6/Tiles/Grassland+Hill2
   index: -1
 TileSets/Civ6/Tiles/Great Barrier Reef
   rotate: false
-  xy: 1088, 304
+  xy: 1160, 360
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Holy site
   rotate: false
-  xy: 1160, 304
+  xy: 1160, 288
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -636,14 +636,14 @@ TileSets/Civ6/Tiles/Oasis
   index: -1
 TileSets/Civ6/Tiles/Ocean
   rotate: false
-  xy: 1088, 232
+  xy: 1088, 240
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Oil WellC
   rotate: false
-  xy: 1160, 224
+  xy: 1160, 208
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
