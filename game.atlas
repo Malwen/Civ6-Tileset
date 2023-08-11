@@ -454,23 +454,23 @@ TileSets/Civ6/Tiles/Ice3
   index: -1
 TileSets/Civ6/Tiles/Jungle
   rotate: false
-  xy: 1304, 295
-  size: 64, 64
-  orig: 64, 64
+  xy: 1304, 287
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/JungleLow
   rotate: false
-  xy: 1376, 360
-  size: 64, 64
-  orig: 64, 64
+  xy: 1376, 352
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/JungleUp
   rotate: false
-  xy: 1376, 288
-  size: 64, 64
-  orig: 64, 64
+  xy: 1376, 272
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Krakatoa
@@ -678,14 +678,14 @@ TileSets/Civ6/Tiles/Oil+Oil well
   index: -1
 TileSets/Civ6/Tiles/Oil well-Pillaged
   rotate: false
-  xy: 1304, 215
+  xy: 1304, 207
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Oil well-Pillaged2
   rotate: false
-  xy: 1376, 208
+  xy: 1376, 192
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
@@ -853,7 +853,7 @@ TileSets/Civ6/Tiles/Snow
   index: -1
 TileSets/Civ6/Tiles/Snow+Hill
   rotate: false
-  xy: 1304, 151
+  xy: 1304, 143
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -874,7 +874,7 @@ TileSets/Civ6/Tiles/Snow+Hill+Fallout2
   index: -1
 TileSets/Civ6/Tiles/Snow+Hill2
   rotate: false
-  xy: 1376, 144
+  xy: 1376, 128
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
