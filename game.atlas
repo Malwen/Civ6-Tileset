@@ -622,9 +622,9 @@ TileSets/Civ6/Tiles/Mountain2
   index: -1
 TileSets/Civ6/Tiles/Mountain3
   rotate: false
-  xy: 800, 224
-  size: 64, 64
-  orig: 64, 64
+  xy: 800, 216
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Oasis
@@ -804,7 +804,7 @@ TileSets/Civ6/Tiles/Quarry
   index: -1
 TileSets/Civ6/Tiles/Quarry-Pillaged
   rotate: false
-  xy: 800, 152
+  xy: 800, 144
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
