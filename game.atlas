@@ -1033,6 +1033,20 @@ TileSets/Civ6/Tiles/Uluru
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/Civ6/Tiles/Volcanic Soil
+  rotate: false
+  xy: 1664, 228
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+TileSets/Civ6/Tiles/Volcano
+  rotate: false
+  xy: 1664, 148
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
 TileSets/Civ6/TopBorder
   rotate: false
   xy: 1520, 227
