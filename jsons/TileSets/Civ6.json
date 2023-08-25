@@ -24,7 +24,7 @@
 	//Barbarian encampment
 	"Tundra+Forest+Barbarian encampment": ["Tundra","ForestTUp","Barbarian encampment", "ForestTLow"],
 	"Tundra+Hill+Barbarian encampment": ["Tundra+Hill","Barbarian encampment"],
-	"Tundra+Hill+Forest+Barbarian encampment": ["Tundra+Hill","Forest","Barbarian encampment"],
+	"Tundra+Hill+Forest+Barbarian encampment": ["Tundra+Hill","ForestT","Barbarian encampment"],
 	"Tundra+Barbarian encampment": ["Tundra","Barbarian encampment"],
 	"Grassland+Forest+Barbarian encampment": ["Grassland","Forest","Barbarian encampment"],
 	"Grassland+Jungle+Barbarian encampment": ["Grassland","Jungle","Barbarian encampment"],
@@ -41,9 +41,9 @@
 	"Desert+Hill+Barbarian encampment": ["Desert+Hill","Barbarian encampment"],
 
 	//Ancient ruins
-	"Tundra+Forest+Ancient ruins": ["Tundra","Forest","Ancient ruins"],
+	"Tundra+Forest+Ancient ruins": ["Tundra","ForestT","Ancient ruins"],
 	"Tundra+Hill+Ancient ruins": ["Tundra+Hill","Ancient ruins"],
-	"Tundra+Hill+Forest+Ancient ruins": ["Tundra+Hill","Forest","Ancient ruins"],
+	"Tundra+Hill+Forest+Ancient ruins": ["Tundra+Hill","ForestT","Ancient ruins"],
 	"Tundra+Ancient ruins": ["Tundra","Ancient ruins"],
 	"Grassland+Forest+Ancient ruins": ["Grassland","Forest","Ancient ruins"],
 	"Grassland+Jungle+Ancient ruins": ["Grassland","Jungle","Ancient ruins"],
@@ -62,8 +62,8 @@
 	"Desert+Hill+Ancient ruins": ["Desert+Hill","Ancient ruins"],
 
 	//Truffles
-	"Tundra+Forest+Truffles+Camp": ["Tundra","ForestUp","Camp","ForestLow"],
-	"Tundra+Hill+Forest+Truffles+Camp": ["Tundra+Hill","ForestUp","Camp","ForestLow"],
+	"Tundra+Forest+Truffles+Camp": ["Tundra","ForestTUp","Camp","ForestTLow"],
+	"Tundra+Hill+Forest+Truffles+Camp": ["Tundra+Hill","ForestTUp","Camp","ForestTLow"],
 	"Grassland+Forest+Truffles+Camp": ["Grassland","ForestUp","Camp","ForestLow"],
 	"Grassland+Jungle+Truffles+Camp": ["Grassland","JungleUp","Camp","JungleLow"],
 	"Grassland+Hill+Forest+Truffles+Camp": ["Grassland+Hill","ForestUp","Camp","ForestLow"],
@@ -73,16 +73,16 @@
 
 	//Furs
 	"Tundra+Furs+Camp": ["Tundra","Camp"],
-	"Tundra+Forest+Furs+Camp": ["Tundra","ForestUp","Camp","ForestLow"],
-	"Tundra+Hill+Forest+Furs+Camp": ["Tundra+Hill","ForestUp","Camp","ForestLow"],
+	"Tundra+Forest+Furs+Camp": ["Tundra","ForestTUp","Camp","ForestTLow"],
+	"Tundra+Hill+Forest+Furs+Camp": ["Tundra+Hill","ForestTUp","Camp","ForestTLow"],
 	"Grassland+Forest+Furs+Camp": ["Grassland","ForestUp","Camp","ForestLow"],
 	"Grassland+Hill+Forest+Furs+Camp": ["Grassland+Hill","ForestUp","Camp","ForestLow"],
 	"Plains+Forest+Furs+Camp": ["Plains","ForestUp","Camp","ForestLow"],
 	"Plains+Hill+Forest+Furs+Camp": ["Plains+Hill","ForestUp","Camp","ForestLow"],
 
 	//Deer
-	"Tundra+Forest+Deer+Camp": ["Tundra","ForestUp","Camp","ForestLow"],
-	"Tundra+Hill+Forest+Deer+Camp": ["Tundra+Hill","ForestUp","Camp","ForestLow"],
+	"Tundra+Forest+Deer+Camp": ["Tundra","ForestTUp","Camp","ForestTLow"],
+	"Tundra+Hill+Forest+Deer+Camp": ["Tundra+Hill","ForestTUp","Camp","ForestTLow"],
 	"Grassland+Forest+Deer+Camp": ["Grassland","ForestUp","Camp","ForestLow"],
 	"Grassland+Hill+Forest+Deer+Camp": ["Grassland+Hill","ForestUp","Camp","ForestLow"],
 	"Plains+Forest+Deer+Camp": ["Plains","ForestUp","Camp","ForestLow"],
