@@ -1,7 +1,9 @@
 # Civ6-Tileset
-Tileset for Base Game Unciv in Civ6 Strategic View Style
+Tileset for Unciv in Civ6 Strategic View Style
+(Compatible with Civ6 Mod)
 
-THIS TILESET IS NOT FINISHED YET! It is still being worked on.
+Work in Progress
+Tileset is based on HexaRealm, so it still uses some of its sprites at the moment
+
 If you want to help in the development with your advice, then you are welcome to the topic - https://discord.com/channels/586194543280390151/1089123839797100614
 
-Tileset is based on HexaRealm, so it still uses some of its sprites at the moment (in the future, all sprites will be original)
