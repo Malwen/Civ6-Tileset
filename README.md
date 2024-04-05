@@ -1,4 +1,5 @@
 # Civ6-Tileset
+![preview](https://github.com/Malwen/Civ6-Tileset/assets/127602197/29cc2612-1c3a-4c5e-b3e6-d09cb76512e9)
 Tileset for Unciv in Civ6 Strategic View Style
 (Compatible with Civ6 Mod)
 
