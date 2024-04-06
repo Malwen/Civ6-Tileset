@@ -8,7 +8,8 @@ Tileset is based on HexaRealm, so it still uses some of its sprites at the momen
 
 At this stage, resources do not have sprites, so it is highly recommended to enable "show resources and improvements" in the settings
 
-For the best visual experience, it is recommended to use Civ 5 Icons mod - https://github.com/vegeta1k95/Civ-5-Icons
+For the best visual experience, it is recommended to use
+Civ 5 Icons mod - https://github.com/vegeta1k95/Civ-5-Icons
 FOR VANILLA and G&K
 
 or Civ6 Icons - https://github.com/EmperorPinguin/Civ6-Icons
