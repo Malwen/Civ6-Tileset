@@ -93,6 +93,9 @@
 	"Desert+Flood plains+Stone+Quarry": ["Desert","Flood plains","Quarry"],
 	"Desert+Hill+Stone+Quarry": ["Desert+Hill","Quarry"],
 
+	//Oil
+	"Coast+Oil": ["Coast", "OilS"],
+
 	//Farm
 	"Grassland+Farm": ["Grassland","Farm"],
 	"Grassland+Hill+Farm": ["Grassland+Hill","Farm"],
