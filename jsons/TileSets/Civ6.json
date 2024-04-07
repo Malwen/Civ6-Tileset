@@ -94,7 +94,7 @@
 	"Desert+Hill+Stone+Quarry": ["Desert+Hill","Quarry"],
 
 	//Oil
-	"Coast+Oil": ["Coast", "OilS"],
+	"Coast+Oil": ["Coast", "Oil Coast"],
 
 	//Farm
 	"Grassland+Farm": ["Grassland","Farm"],
