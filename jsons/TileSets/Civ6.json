@@ -61,6 +61,10 @@
 	"Desert+Flood plains+Ancient ruins": ["Desert","Flood plains","Ancient ruins"],
 	"Desert+Hill+Ancient ruins": ["Desert+Hill","Ancient ruins"],
 
+        //Bananas
+	"Grassland+Jungle+Bananas": ["Grassland","Bananas"],
+	"Plains+Jungle+Bananas": ["Plains","Bananas"],
+	    
 	//Truffles
 	"Tundra+Forest+Truffles+Camp": ["Tundra","ForestTUp","Camp","ForestTLow"],
 	"Tundra+Hill+Forest+Truffles+Camp": ["Tundra+Hill","ForestTUp","Camp","ForestTLow"],
