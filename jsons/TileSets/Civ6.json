@@ -99,6 +99,8 @@
 
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
+	"Grassland+Jungle+Oil": ["Grassland","Oil", "Jungle"],
+	"Plains+Jungle+Oil": ["Plains","Oil", "Jungle"],
 
 	//Farm
 	"Grassland+Farm": ["Grassland","Farm"],
