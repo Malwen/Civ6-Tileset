@@ -99,8 +99,13 @@
 
 	//Aluminum
 	"Grassland+Jungle+Aluminum": ["Grassland","JungleUp","Aluminum","JungleLow"],
-        "Plains+Jungle+Aluminum": ["Plains","JungleUp","Aluminum","JungleLow
+        "Plains+Jungle+Aluminum": ["Plains","JungleUp","Aluminum","JungleLow"],
 
+	//Coal
+	"Grassland+Jungle+Coal": ["Grassland","JungleUp","Coal","JungleLow"],
+        "Plains+Jungle+Coal": ["Plains","JungleUp","Coal","JungleLow"],
+	"Grassland+Forest+Aluminum": ["Grassland","ForestUp","Coal","ForestLow"],
+        "Plains+Forest+Aluminum": ["Plains","ForestUp","Coal","ForestLow"],
 	    
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
