@@ -97,6 +97,11 @@
 	"Desert+Flood plains+Stone+Quarry": ["Desert","Flood plains","Quarry"],
 	"Desert+Hill+Stone+Quarry": ["Desert+Hill","Quarry"],
 
+	//Aluminum
+	"Grassland+Jungle+Aluminum": ["Grassland","JungleUp","Aluminum","JungleLow"],
+        "Plains+Jungle+Aluminum": ["Plains","JungleUp","Aluminum","JungleLow
+
+	    
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
 	"Grassland+Jungle+Oil": ["Grassland","Oil", "Jungle"],
