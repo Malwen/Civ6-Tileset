@@ -101,11 +101,26 @@
 	"Grassland+Jungle+Aluminum": ["Grassland","JungleUp","Aluminum","JungleLow"],
         "Plains+Jungle+Aluminum": ["Plains","JungleUp","Aluminum","JungleLow"],
 
+	//Iron
+	"Grassland+Jungle+Iron": ["Grassland","JungleUp","Iron","JungleLow"],
+	"Grassland+Hill+Jungle+Iron": ["Grassland","Hill","JungleUp","Iron","JungleLow"],
+        "Plains+Jungle+Iron": ["Plains","JungleUp","Iron","JungleLow"],
+	"Plains+Hill+Jungle+Iron": ["Plains","Hill","JungleUp","Iron","JungleLow"],
+	"Grassland+Forest+Iron": ["Grassland","ForestUp","Iron","ForestLow"],
+        "Plains+Forest+Iron": ["Plains","ForestUp","Iron","ForestLow"],
+	"Tundra+Forest+Iron": ["Tundra","ForestTUp","Iron","ForestTLow"],
+
 	//Coal
 	"Grassland+Jungle+Coal": ["Grassland","JungleUp","Coal","JungleLow"],
+	"Grassland+Hill+Jungle+Coal": ["Grassland","Hill","JungleUp","Coal","JungleLow"],
+	"Grassland+Forest+Coal": ["Grassland","ForestUp","Coal","ForestLow"],
+        "Grassland+Hill+Forest+Coal": ["Grassland","Hill","ForestUp","Coal","ForestLow"],
         "Plains+Jungle+Coal": ["Plains","JungleUp","Coal","JungleLow"],
-	"Grassland+Forest+Aluminum": ["Grassland","ForestUp","Coal","ForestLow"],
-        "Plains+Forest+Aluminum": ["Plains","ForestUp","Coal","ForestLow"],
+	"Plains+Hill+Jungle+Coal": ["Plains","Hill","JungleUp","Coal","JungleLow"],
+        "Plains+Forest+Coal": ["Plains","ForestUp","Coal","ForestLow"],
+	"Plains+Hill+Forest+Coal": ["Plains","Hill","ForestUp","Coal","ForestLow"],
+	"Tundra+Forest+Coal": ["Tundra","ForestTUp","Coal","ForestTLow"],
+	"Tundra+Hill+Forest+Coal": ["Tundra","Hill","ForestTUp","Coal","ForestTLow"],
 	    
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
