@@ -133,18 +133,18 @@
 	"Tundra+Forest+Copper": ["Tundra","ForestTUp","Copper","ForestTLow"],
 	"Tundra+Hill+Forest+Copper": ["Tundra","Hill","ForestTUp","Copper","ForestTLow"],
 
-	//Marble
-	"Grassland+Jungle+Marble": ["Grassland","JungleUp","Marble","JungleLow"],
-	"Grassland+Hill+Jungle+Marble": ["Grassland","Hill","JungleUp","Marble","JungleLow"],
-	"Grassland+Forest+Marble": ["Grassland","ForestUp","Marble","ForestLow"],
-        "Grassland+Hill+Forest+Marble": ["Grassland","Hill","ForestUp","Marble","ForestLow"],
-        "Plains+Jungle+Marble": ["Plains","JungleUp","Marble","JungleLow"],
-	"Plains+Hill+Jungle+Marble": ["Plains","Hill","JungleUp","Marble","JungleLow"],
-        "Plains+Forest+Marble": ["Plains","ForestUp","Marble","ForestLow"],
-	"Plains+Hill+Forest+Marble": ["Plains","Hill","ForestUp","Marble","ForestLow"],
-	"Tundra+Forest+Marble": ["Tundra","ForestTUp","Marble","ForestTLow"],
-	"Tundra+Hill+Forest+Marble": ["Tundra","Hill","ForestTUp","Marble","ForestTLow"],
-	    
+	//Silver
+	"Grassland+Jungle+Silver": ["Grassland","JungleUp","Silver","JungleLow"],
+	"Grassland+Hill+Jungle+Silver": ["Grassland","Hill","JungleUp","Silver","JungleLow"],
+	"Grassland+Forest+Silver": ["Grassland","ForestUp","Silver","ForestLow"],
+        "Grassland+Hill+Forest+Silver": ["Grassland","Hill","ForestUp","Silver","ForestLow"],
+	"Tundra+Forest+Silver": ["Tundra","ForestTUp","Silver","ForestTLow"],
+	"Tundra+Hill+Forest+Silver": ["Tundra","Hill","ForestTUp","Silver","ForestTLow"],
+
+	//Uranium
+	"Tundra+Forest+Uranium": ["Tundra","ForestTUp","Uranium","ForestTLow"],
+	"Tundra+Hill+Forest+Uranium": ["Tundra","Hill","ForestTUp","Uranium","ForestTLow"],
+   
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
 	"Grassland+Jungle+Oil": ["Grassland","Oil", "Jungle"],
