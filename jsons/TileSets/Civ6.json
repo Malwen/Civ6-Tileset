@@ -144,6 +144,10 @@
 	//Uranium
 	"Tundra+Forest+Uranium": ["Tundra","ForestTUp","Uranium","ForestTLow"],
 	"Tundra+Hill+Forest+Uranium": ["Tundra","Hill","ForestTUp","Uranium","ForestTLow"],
+	"Plains+Jungle+Iron": ["Plains","JungleUp","Iron","JungleLow"],
+	"Plains+Hill+Jungle+Iron": ["Plains","Hill","JungleUp","Iron","JungleLow"],
+        "Plains+Forest+Iron": ["Plains","ForestUp","Iron","ForestLow"],
+	"Plains+Hill+Forest+Iron": ["Plains","Hill","ForestUp","Iron","ForestLow"],
    
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
