@@ -138,22 +138,6 @@
 	"Grassland+Jungle+Oil": ["Grassland","Oil", "Jungle"],
 	"Plains+Jungle+Oil": ["Plains","Oil", "Jungle"],
 
-	//Farm
-	"Grassland+Farm": ["Grassland","Farm"],
-	"Grassland+Hill+Farm": ["Grassland+Hill","Farm"],
-	"Plains+Farm": ["Plains","Farm"],
-	"Plains+Hill+Farm": ["Grassland+Hill","Farm"],
-	"Tundra+Farm": ["Tundra","Farm"],
-	"Tundra+Hill+Farm": ["Tundra+Hill","Farm"],
-	"Desert+Farm": ["Desert","Farm"],
-	"Desert+Hill+Farm": ["Desert+Hill","Farm"],
-	"Desert+Flood plains+Farm": ["Desert","Flood plains","Farm"],
-	"Snow+Farm": ["Snow","Farm"],
-	"Snow+Hill+Farm": ["Snow+Hill","Farm"],
-	"Plains+Wheat+Farm": ["Plains","Farm"],
-	"Desert+Wheat+Farm": ["Desert","Farm"],
-	"Desert+Flood plains+Wheat+Farm": ["Desert","Flood plains","Farm"],
-
 	//Oil Well
 	"Coast+Oil well": ["Coast","Oil WellC"],
 	"Coast+Oil+Oil well": ["Coast","Oil WellC"],
