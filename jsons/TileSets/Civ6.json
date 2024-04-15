@@ -132,6 +132,18 @@
         "Grassland+Hill+Forest+Copper": ["Grassland","Hill","ForestUp","Copper","ForestLow"],
 	"Tundra+Forest+Copper": ["Tundra","ForestTUp","Copper","ForestTLow"],
 	"Tundra+Hill+Forest+Copper": ["Tundra","Hill","ForestTUp","Copper","ForestTLow"],
+
+	//Marble
+	"Grassland+Jungle+Marble": ["Grassland","JungleUp","Marble","JungleLow"],
+	"Grassland+Hill+Jungle+Marble": ["Grassland","Hill","JungleUp","Marble","JungleLow"],
+	"Grassland+Forest+Marble": ["Grassland","ForestUp","Marble","ForestLow"],
+        "Grassland+Hill+Forest+Marble": ["Grassland","Hill","ForestUp","Marble","ForestLow"],
+        "Plains+Jungle+Marble": ["Plains","JungleUp","Marble","JungleLow"],
+	"Plains+Hill+Jungle+Marble": ["Plains","Hill","JungleUp","Marble","JungleLow"],
+        "Plains+Forest+Marble": ["Plains","ForestUp","Marble","ForestLow"],
+	"Plains+Hill+Forest+Marble": ["Plains","Hill","ForestUp","Marble","ForestLow"],
+	"Tundra+Forest+Marble": ["Tundra","ForestTUp","Marble","ForestTLow"],
+	"Tundra+Hill+Forest+Marble": ["Tundra","Hill","ForestTUp","Marble","ForestTLow"],
 	    
 	//Oil
 	"Coast+Oil": ["Coast", "Oil Coast"],
