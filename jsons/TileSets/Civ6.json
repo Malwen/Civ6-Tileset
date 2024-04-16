@@ -1,6 +1,6 @@
 {
     "useColorAsBaseTerrain": "false",
-    "fallbackTileSet": "HexaRealm",
+    "fallbackTileSet": "Minimal",
     "ruleVariants": {
 
         //forest and jungle
