@@ -1,10 +1,11 @@
 {
-    "useColorAsBaseTerrain": "false",
-    "fallbackTileSet": "HexaRealm",
-    "ruleVariants": {
+	"useColorAsBaseTerrain": "false",
+	"fogOfWarColor": {"r":0,"g":0,"b":0,"a":1},
+	"fallbackTileSet": "HexaRealm",
+	"ruleVariants": {
 
-		// River pseudo-tile used in Civilopedia display only
-		"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
+	// River pseudo-tile used in Civilopedia display only
+	"Grassland+River": ["Plains","River-BottomLeft","River-Bottom","River-BottomRight"],
 
         //Forest and Jungle
         "Grassland+Forest": ["Grassland","Forest"],
@@ -1060,58 +1061,5 @@
 	"Snow+Fort": ["Snow","FortT"],
 	"Snow+Hill+Fort": ["Snow+Hill","FortT"],
 
-	//GI (template code for snow improvement)
-	"Tundra+GI": ["Tundra","GIT"],
-	"Tundra+Deer+GI": ["Tundra","Deer","GIT"],
-	"Tundra+Stone+GI": ["Tundra","Stone","GIT"],
-	"Tundra+Iron+GI": ["Tundra","Iron","GIT"],
-	"Tundra+Oil+GI": ["Tundra","Oil","GIT"],
-	"Tundra+Aluminum+GI": ["Tundra","Aluminum","GIT"],
-	"Tundra+Uranium+GI": ["Tundra","Uranium","GIT"],
-	"Tundra+Furs+GI": ["Tundra","FursT","GIT"],
-	"Tundra+Silver+GI": ["Tundra","Silver","GIT"],
-	"Tundra+Copper+GI": ["Tundra","Copper","GIT"],
-	"Tundra+Salt+GI": ["Tundra","Salt","GIT"],
-	"Tundra+Coal+GI": ["Tundra","Coal","GIT"],
-	"Tundra+Dyes+GI": ["Tundra","Dyes","GIT"],
-	"Tundra+Gems+GI": ["Tundra","Gems","GIT"],
-	"Tundra+Gold Ore+GI": ["Tundra","Gold Ore","GIT"],
-	"Tundra+Silk+GI": ["Tundra","Silk","GIT"],
-	"Tundra+Spices+GI": ["Tundra","Spices","GIT"],
-	"Tundra+Citrus+GI": ["Tundra","Citrus","GIT"],
-	"Tundra+Truffles+GI": ["Tundra","Truffles","GIT"],
-
-	"Tundra+Hill+GI": ["Tundra+Hill","GIT"],
-	"Tundra+Hill+Deer+GI": ["Tundra+Hill","Deer","GIT"],
-	"Tundra+Hill+Stone+GI": ["Tundra+Hill","Stone","GIT"],
-	"Tundra+Hill+Iron+GI": ["Tundra+Hill","Iron","GIT"],
-	"Tundra+Hill+Oil+GI": ["Tundra+Hill","Oil","GIT"],
-	"Tundra+Hill+Aluminum+GI": ["Tundra+Hill","Aluminum","GIT"],
-	"Tundra+Hill+Uranium+GI": ["Tundra+Hill","Uranium","GIT"],
-	"Tundra+Hill+Furs+GI": ["Tundra+Hill","FursT","GIT"],
-	"Tundra+Hill+Silver+GI": ["Tundra+Hill","Silver","GIT"],
-	"Tundra+Hill+Copper+GI": ["Tundra+Hill","Copper","GIT"],
-	"Tundra+Hill+Salt+GI": ["Tundra+Hill","Salt","GIT"],
-	"Tundra+Hill+Coal+GI": ["Tundra+Hill","Coal","GIT"],
-	"Tundra+Hill+Dyes+GI": ["Tundra+Hill","Dyes","GIT"],
-	"Tundra+Hill+Gems+GI": ["Tundra+Hill","Gems","GIT"],
-	"Tundra+Hill+Gold Ore+GI": ["Tundra+Hill","Gold Ore","GIT"],
-	"Tundra+Hill+Silk+GI": ["Tundra+Hill","Silk","GIT"],
-	"Tundra+Hill+Spices+GI": ["Tundra+Hill","Spices","GIT"],
-	"Tundra+Hill+Citrus+GI": ["Tundra+Hill","Citrus","GIT"],
-	"Tundra+Hill+Truffles+GI": ["Tundra+Hill","Truffles","GIT"],
-	"Tundra+Hill+Sheep+GI": ["Tundra+Hill","Sheep","GIT"],
-	"Tundra+Hill+Horses+GI": ["Tundra+Hill","Horses","GIT"],
-
-	"Snow+Iron+GI": ["Snow","Iron","GIT"],
-	"Snow+Oil+GI": ["Snow","Oil","GIT"],
-	"Snow+Aluminum+GI": ["Snow","Aluminum","GIT"],
-	"Snow+Uranium+GI": ["Snow","Uranium","GIT"],
-	"Snow+Hill+Iron+GI": ["Snow+Hill","Iron","GIT"],
-	"Snow+Hill+Oil+GI": ["Snow+Hill","Oil","GIT"],
-	"Snow+Hill+Aluminum+GI": ["Snow+Hill","Aluminum","GIT"],
-	"Snow+Hill+Uranium+GI": ["Snow+Hill","Uranium","GIT"],
-	"Snow+GI": ["Snow","GIT"],
-	"Snow+Hill+GI": ["Snow+Hill","GIT"],
 	}
 }

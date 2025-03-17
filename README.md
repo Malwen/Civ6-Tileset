@@ -2,7 +2,7 @@
 Tileset for Unciv in Civ6 Strategic View Style
 (Compatible with Civ6 Mod)
 
-Work in Progress
+WORK IN PROGRESS
 
 Tileset is based on HexaRealm, so it still uses some of its sprites at the moment
 
