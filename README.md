@@ -4,8 +4,6 @@ Tileset for Unciv in Civ6 Style
 
 WORK IN PROGRESS
 
-Tileset is based on HexaRealm, so it still uses some of its sprites at the moment
-
 For the best visual experience, it is recommended to use
 Civ 5 Icons mod - https://github.com/vegeta1k95/Civ-5-Icons
 FOR VANILLA and G&K
