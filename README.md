@@ -1,5 +1,5 @@
 
-Tileset for Unciv in Civ6 Strategic View Style
+Tileset for Unciv in Civ6 Style
 (Compatible with Civ6 Mod)
 
 WORK IN PROGRESS
