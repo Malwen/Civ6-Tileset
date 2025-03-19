@@ -1,10 +1,8 @@
-![preview](https://github.com/Malwen/Civ6-Tileset/assets/127602197/29cc2612-1c3a-4c5e-b3e6-d09cb76512e9)
-Tileset for Unciv in Civ6 Strategic View Style
+
+Tileset for Unciv in Civ6 Style
 (Compatible with Civ6 Mod)
 
 WORK IN PROGRESS
-
-Tileset is based on HexaRealm, so it still uses some of its sprites at the moment
 
 For the best visual experience, it is recommended to use
 Civ 5 Icons mod - https://github.com/vegeta1k95/Civ-5-Icons
