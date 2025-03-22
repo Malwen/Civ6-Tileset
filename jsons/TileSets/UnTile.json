@@ -13,6 +13,16 @@
         "Desert+Hill": ["Desert","Desert Hill"],	
         "Tundra+Hill": ["Tundra","Tundra Hill"],
 	"Snow+Hill": ["Snow","Snow Hill"],
+	"Grassland+Hill+Forest": ["Grassland","Grassland Hill","Forest"],
+	"Grassland+Hill+Jungle": ["Grassland","Grassland Hill","Jungle"],
+        "Plains+Hill+Forest": ["Plains","Plains Hill","Forest"],
+        "Plains+Hill+Jungle": ["Plains","Plains Hill","Jungle"],
+	"Tundra+Hill+Forest": ["Tundra","Tundra Hill","ForestT"],
+	"Grassland+Forest+Hill": ["Grassland","Grassland Hill","Forest"],
+	"Grassland+Jungle+Hill": ["Grassland","Grassland Hill","Jungle"],
+        "Plains+Forest+Hill": ["Plains","Plains Hill","Forest"],
+        "Plains+Jungle+Hill": ["Plains","Plains Hill","Jungle"],
+	"Tundra+Forest+Hill": ["Tundra","Tundra Hill","ForestT"],
 
 	//Volcanic Soil
 	"Grassland+Hill+Volcanic Soil": ["Grassland","Grassland Hill","Volcanic Soil"],
@@ -104,6 +114,16 @@
 	"Plains+Jungle+Truffles+Camp": ["Plains","JungleUp","Truffles","Camp", "JungleLow"],
 	"Plains+Hill+Forest+Truffles+Camp": ["Plains","Plains Hill","ForestUp","Truffles","Camp","ForestLow"],
 	"Tundra+Truffles+Camp": ["Tundra", "Truffles","Camp"],
+
+	//Ivory
+	"Grassland+Forest+Ivory": ["Grassland","ForestUp","Ivory","ForestLow"],
+	"Grassland+Hill+Forest+Ivory": ["Grassland","Grassland Hill","ForestUp","Ivory","ForestLow"],
+	"Grassland+Jungle+Ivory": ["Grassland","JungleUp","Ivory","JungleLow"],
+	"Grassland+Hill+Jungle+Ivory": ["Grassland","Grassland Hill","JungleUp","Ivory","JungleLow"],
+	"Grassland+Forest+Marsh+Ivory": ["Grassland","Marsh","ForestUp","Ivory","ForestLow"],
+	"Grassland+Hill+Forest+Marsh+Ivory": ["Grassland","Marsh","Grassland Hill","ForestUp","Ivory","ForestLow"],
+	"Grassland+Jungle+Marsh+Ivory": ["Grassland","Marsh","JungleUp","Ivory","JungleLow"],
+	"Grassland+Hill+Jungle+Marsh+Ivory": ["Grassland","Marsh","Grassland Hill","JungleUp","Ivory","JungleLow"],
 
 	//Furs
 	"Tundra+Furs": ["Tundra","Furs"],
