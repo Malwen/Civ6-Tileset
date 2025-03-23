@@ -287,14 +287,16 @@
 	"Plains+Hill+Forest+Dyes": ["Plains","Plains Hill","ForestUp","Dyes","ForestLow"],
 
 	//Silk
-	"Tundra+Forest+Silk": ["Tundra","Silk", "ForestT"],
-	"Tundra+Hill+Forest+Silk": ["Tundra","Tundra Hill","Silk","ForestT"],
-	"Grassland+Forest+Silk": ["Grassland","Silk", "Forest"],
-	"Grassland+Jungle+Silk": ["Grassland","Silk", "Jungle"],
-	"Grassland+Hill+Forest+Silk": ["Grassland","Grassland Hill","Silk","Forest"],
-	"Plains+Forest+Silk": ["Plains","Silk", "Forest"],
-	"Plains+Jungle+Silk": ["Plains","Silk", "Jungle"],
-	"Plains+Hill+Forest+Silk": ["Plains","Plains Hill","Silk","Forest"],
+	"Tundra+Forest+Silk": ["Tundra","ForestT+Silk"],
+	"Tundra+Hill+Forest+Silk": ["Tundra","Tundra Hill","ForestT+Silk"],
+	"Grassland+Forest+Silk": ["Grassland","Forest+Silk"],
+	"Grassland+Jungle+Silk": ["Grassland","Jungle+Silk"],
+	"Grassland+Hill+Forest+Silk": ["Grassland","Grassland Hill","Forest+Silk"],
+	"Grassland+Hill+Jungle+Silk": ["Grassland","Grassland Hill","Jungle+Silk"],
+	"Plains+Forest+Silk": ["Plains","Forest+Silk"],
+	"Plains+Jungle+Silk": ["Plains","Jungle+Silk"],
+	"Plains+Hill+Forest+Silk": ["Plains","Plains Hill","Forest+Silk"],
+	"Plains+Hill+Jungle+Silk": ["Plains","Plains Hill","Jungle+Silk"],
 
 	//Spices
 	"Tundra+Forest+Spices": ["Tundra","ForestTUp","Spices", "ForestTLow"],

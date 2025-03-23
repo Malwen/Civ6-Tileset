@@ -118,7 +118,7 @@ TileSets/UnTile/Crosshair
   index: -1
 TileSets/UnTile/CrosshatchHexagon
   rotate: false
-  xy: 220, 311
+  xy: 328, 167
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
@@ -139,14 +139,14 @@ TileSets/UnTile/Highlight
   index: -1
 TileSets/UnTile/Railroad
   rotate: false
-  xy: 76, 169
+  xy: 2004, 1011
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
   index: -1
 TileSets/UnTile/Road
   rotate: false
-  xy: 4, 9
+  xy: 76, 169
   size: 13, 9
   orig: 13, 9
   offset: 0, 0
@@ -802,6 +802,13 @@ TileSets/UnTile/Tiles/Forest
   orig: 64, 72
   offset: 0, 0
   index: -1
+TileSets/UnTile/Tiles/Forest+Silk
+  rotate: false
+  xy: 1716, 732
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
 TileSets/UnTile/Tiles/Forest2
   rotate: false
   xy: 1644, 724
@@ -811,105 +818,112 @@ TileSets/UnTile/Tiles/Forest2
   index: -1
 TileSets/UnTile/Tiles/ForestLow
   rotate: false
-  xy: 1716, 732
+  xy: 1788, 708
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/ForestT
   rotate: false
-  xy: 1788, 708
-  size: 64, 72
-  orig: 64, 72
-  offset: 0, 0
-  index: -1
-TileSets/UnTile/Tiles/ForestTLow
-  rotate: false
   xy: 1860, 716
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
-TileSets/UnTile/Tiles/ForestTUp
+TileSets/UnTile/Tiles/ForestT+Silk
   rotate: false
   xy: 1932, 716
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
-TileSets/UnTile/Tiles/ForestUp
+TileSets/UnTile/Tiles/ForestTLow
   rotate: false
   xy: 1716, 652
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
+TileSets/UnTile/Tiles/ForestTUp
+  rotate: false
+  xy: 1788, 628
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+TileSets/UnTile/Tiles/ForestUp
+  rotate: false
+  xy: 1860, 636
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
 TileSets/UnTile/Tiles/Fort
   rotate: false
-  xy: 1788, 636
+  xy: 1932, 644
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Fort-Atomic era
   rotate: false
-  xy: 1860, 652
+  xy: 1428, 676
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Fort-Industrial era
   rotate: false
-  xy: 1932, 652
+  xy: 1500, 660
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Fort-Pillaged
   rotate: false
-  xy: 1428, 668
+  xy: 1572, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Fort-Pillaged2
   rotate: false
-  xy: 1500, 652
+  xy: 1644, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FortT
   rotate: false
-  xy: 1572, 660
+  xy: 404, 771
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FortT-Atomic era
   rotate: false
-  xy: 1644, 660
+  xy: 1284, 668
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FortT-Industrial era
   rotate: false
-  xy: 404, 771
+  xy: 1356, 668
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FortT-Pillaged
   rotate: false
-  xy: 476, 837
+  xy: 1212, 648
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Fountain of Youth
   rotate: false
-  xy: 476, 757
+  xy: 476, 825
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
@@ -923,1414 +937,1414 @@ TileSets/UnTile/Tiles/Furs
   index: -1
 TileSets/UnTile/Tiles/Furs+Camp
   rotate: false
-  xy: 548, 761
+  xy: 476, 761
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Furs+Camp-Industrial era
   rotate: false
-  xy: 1860, 588
+  xy: 548, 761
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Furs+Camp-Pillaged
   rotate: false
-  xy: 1932, 584
+  xy: 1428, 608
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FursT+Camp-Pillaged
   rotate: false
-  xy: 1932, 584
+  xy: 1428, 608
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+Camp-Pillaged
   rotate: false
-  xy: 1932, 584
+  xy: 1428, 608
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+CampT-Pillaged
   rotate: false
-  xy: 1932, 584
+  xy: 1428, 608
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FursT+Camp
   rotate: false
-  xy: 1284, 668
+  xy: 1500, 596
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/FursT+Camp-Industrial era
   rotate: false
-  xy: 1356, 668
+  xy: 1572, 588
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Gems
   rotate: false
-  xy: 1212, 636
+  xy: 1644, 572
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Geothermal Fissure
   rotate: false
-  xy: 1284, 588
+  xy: 1716, 572
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Giant's Causeway
   rotate: false
-  xy: 1356, 588
+  xy: 1788, 548
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Giant's Causeway2
   rotate: false
-  xy: 1428, 588
+  xy: 1860, 556
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Gold Ore
   rotate: false
-  xy: 1500, 572
+  xy: 1932, 564
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grand Mesa
   rotate: false
-  xy: 1572, 580
+  xy: 1284, 588
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grassland
   rotate: false
-  xy: 1644, 580
+  xy: 1356, 588
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grassland Hill
   rotate: false
-  xy: 1716, 572
+  xy: 1428, 528
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grassland Hill2
   rotate: false
-  xy: 1788, 556
+  xy: 1500, 516
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grassland+Hill+Fallout
   rotate: false
-  xy: 1860, 524
+  xy: 1572, 524
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Grassland+Hill+Fallout2
   rotate: false
-  xy: 1932, 520
+  xy: 1644, 508
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Great Barrier Reef
   rotate: false
-  xy: 296, 746
+  xy: 1716, 500
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ha Long Bay
   rotate: false
-  xy: 289, 666
+  xy: 1788, 468
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ha Long Bay2
   rotate: false
-  xy: 289, 586
+  xy: 1860, 476
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ha Long Bay3
   rotate: false
-  xy: 292, 506
+  xy: 1932, 484
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Holy site
   rotate: false
-  xy: 292, 426
+  xy: 1572, 444
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Holy site-Pillaged
   rotate: false
-  xy: 292, 346
+  xy: 1644, 428
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Holy site-Pillaged2
   rotate: false
-  xy: 328, 266
+  xy: 1716, 420
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Holy siteT
   rotate: false
-  xy: 328, 194
+  xy: 1788, 396
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Horses
   rotate: false
-  xy: 364, 114
+  xy: 1860, 396
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Horses+Pasture-Pillaged
   rotate: false
-  xy: 361, 594
+  xy: 289, 656
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Horses2
   rotate: false
-  xy: 364, 34
+  xy: 1932, 404
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Horses3
   rotate: false
-  xy: 361, 666
+  xy: 289, 728
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ice
   rotate: false
-  xy: 364, 522
+  xy: 289, 584
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ice2
   rotate: false
-  xy: 364, 450
+  xy: 292, 512
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ice3
   rotate: false
-  xy: 364, 386
+  xy: 292, 448
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Incense
   rotate: false
-  xy: 433, 693
+  xy: 292, 384
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Incense+Plantation
   rotate: false
-  xy: 433, 629
+  xy: 292, 320
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Iron
   rotate: false
-  xy: 505, 677
+  xy: 328, 240
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ivory
   rotate: false
-  xy: 505, 597
+  xy: 361, 691
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ivory+Camp
   rotate: false
-  xy: 577, 697
+  xy: 328, 176
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ivory+Camp-Industrial era
   rotate: false
-  xy: 577, 633
+  xy: 361, 627
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ivory+Camp-Pillaged
   rotate: false
-  xy: 577, 565
+  xy: 433, 693
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Jungle
   rotate: false
-  xy: 620, 876
+  xy: 505, 681
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+TileSets/UnTile/Tiles/Jungle+Silk
+  rotate: false
+  xy: 505, 601
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Jungle2
   rotate: false
-  xy: 692, 876
+  xy: 433, 613
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/JungleLow
   rotate: false
-  xy: 620, 796
+  xy: 577, 681
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/JungleUp
   rotate: false
-  xy: 764, 876
+  xy: 577, 601
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Krakatoa
   rotate: false
-  xy: 692, 796
+  xy: 364, 96
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lake Retba
   rotate: false
-  xy: 764, 796
+  xy: 364, 16
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lake Retba2
   rotate: false
-  xy: 836, 868
+  xy: 620, 876
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lakes
   rotate: false
-  xy: 836, 788
+  xy: 692, 876
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lakes2
   rotate: false
-  xy: 908, 806
+  xy: 620, 796
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lakes3
   rotate: false
-  xy: 649, 716
+  xy: 764, 876
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Landmark
   rotate: false
-  xy: 649, 636
+  xy: 692, 796
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Landmark-Pillaged
   rotate: false
-  xy: 721, 716
+  xy: 764, 796
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Landmark-Pillaged2
   rotate: false
-  xy: 721, 636
+  xy: 836, 868
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/LandmarkT
   rotate: false
-  xy: 649, 564
+  xy: 836, 796
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/LandmarkT-Pillaged
   rotate: false
-  xy: 721, 564
+  xy: 908, 814
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber mill
   rotate: false
-  xy: 793, 716
+  xy: 649, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber mill-Industrial era
   rotate: false
-  xy: 793, 652
+  xy: 649, 660
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber mill-Pillaged
   rotate: false
-  xy: 793, 580
+  xy: 721, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber mill-Pillaged2
   rotate: false
-  xy: 865, 716
+  xy: 793, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber millT
   rotate: false
-  xy: 865, 652
+  xy: 721, 660
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber millT-Industrial era
   rotate: false
-  xy: 865, 588
+  xy: 793, 660
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Lumber millT-Pillaged
   rotate: false
-  xy: 937, 738
+  xy: 649, 592
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Manufactory
   rotate: false
-  xy: 937, 666
+  xy: 721, 588
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Manufactory-Atomic era
   rotate: false
-  xy: 937, 594
+  xy: 793, 588
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Manufactory-Industrial era
   rotate: false
-  xy: 793, 508
+  xy: 865, 724
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Manufactory-Pillaged
   rotate: false
-  xy: 865, 516
+  xy: 865, 652
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Manufactory-Pillaged2
   rotate: false
-  xy: 937, 522
+  xy: 865, 580
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/ManufactoryT
   rotate: false
-  xy: 1009, 668
+  xy: 937, 742
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/ManufactoryT-Atomic era
   rotate: false
-  xy: 1009, 596
+  xy: 937, 670
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/ManufactoryT-Industrial era
   rotate: false
-  xy: 1009, 524
+  xy: 937, 598
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble
   rotate: false
-  xy: 1081, 628
+  xy: 1009, 660
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+Quarry
   rotate: false
-  xy: 1081, 548
+  xy: 1009, 580
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+Quarry-Industrial era
   rotate: false
-  xy: 1081, 484
+  xy: 937, 534
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+Quarry-Pillaged
   rotate: false
-  xy: 1009, 452
+  xy: 1009, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+QuarryT-Pillaged
   rotate: false
-  xy: 1009, 452
+  xy: 1009, 508
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+QuarryT
   rotate: false
-  xy: 937, 458
+  xy: 1932, 340
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marble+QuarryT-Industrial era
   rotate: false
-  xy: 865, 452
+  xy: 1081, 644
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Marsh
   rotate: false
-  xy: 1081, 412
+  xy: 1081, 572
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mato Tipila
   rotate: false
-  xy: 1153, 556
+  xy: 1081, 492
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Matterhorn
   rotate: false
-  xy: 1153, 476
+  xy: 1153, 568
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mine
   rotate: false
-  xy: 1153, 396
+  xy: 1153, 488
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mine-Industrial era
   rotate: false
-  xy: 937, 394
+  xy: 1225, 524
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mine-Pillaged
   rotate: false
-  xy: 1009, 380
+  xy: 1297, 516
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mine-Pillaged2
   rotate: false
-  xy: 1081, 340
+  xy: 1225, 452
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/MineT
   rotate: false
-  xy: 1153, 332
+  xy: 1297, 452
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/MineT-Industrial era
   rotate: false
-  xy: 1572, 516
+  xy: 1369, 464
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/MineT-Pillaged
   rotate: false
-  xy: 1644, 508
+  xy: 1369, 392
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Moai
   rotate: false
-  xy: 1716, 500
+  xy: 364, 320
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Moai-Pillaged
   rotate: false
-  xy: 1788, 484
+  xy: 400, 248
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Moai-Pillaged2
   rotate: false
-  xy: 1860, 452
+  xy: 400, 176
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mount Fuji
   rotate: false
-  xy: 1932, 440
+  xy: 436, 96
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mount Kailash
   rotate: false
-  xy: 1225, 508
+  xy: 436, 16
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 1225, 428
+  xy: 1441, 436
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mount Sinai
   rotate: false
-  xy: 1297, 522
+  xy: 1441, 370
   size: 64, 58
   orig: 64, 58
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mount Vesuvius
   rotate: false
-  xy: 1225, 348
+  xy: 1513, 364
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mountain
   rotate: false
-  xy: 1297, 442
+  xy: 364, 500
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mountain2
   rotate: false
-  xy: 1369, 508
+  xy: 364, 420
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Mountain3
   rotate: false
-  xy: 1297, 362
+  xy: 436, 500
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oasis
   rotate: false
-  xy: 1369, 436
+  xy: 436, 428
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ocean
   rotate: false
-  xy: 1369, 356
+  xy: 508, 521
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Offshore Platform
   rotate: false
-  xy: 1297, 298
+  xy: 508, 457
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil+Offshore Platform
   rotate: false
-  xy: 1297, 298
+  xy: 508, 457
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil
   rotate: false
-  xy: 1225, 268
+  xy: 436, 348
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil Coast
   rotate: false
-  xy: 1369, 276
+  xy: 508, 377
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil WellC
   rotate: false
-  xy: 1297, 218
+  xy: 508, 297
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil WellC-Pillaged
   rotate: false
-  xy: 1369, 196
+  xy: 472, 217
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil WellC-Pillaged2
   rotate: false
-  xy: 1441, 492
+  xy: 544, 217
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil well
   rotate: false
-  xy: 1441, 412
+  xy: 508, 137
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil+Oil well
   rotate: false
-  xy: 1441, 412
+  xy: 508, 137
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil well-Pillaged
   rotate: false
-  xy: 1441, 332
+  xy: 508, 57
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil well-Pillaged2
   rotate: false
-  xy: 1441, 252
+  xy: 580, 137
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Oil+Oil well-Pillaged
   rotate: false
-  xy: 1441, 184
+  xy: 580, 69
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Old Faithful
   rotate: false
-  xy: 1513, 436
+  xy: 580, 512
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Paititi
   rotate: false
-  xy: 1513, 356
+  xy: 580, 432
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Paititi2
   rotate: false
-  xy: 1513, 276
+  xy: 580, 352
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Paititi3
   rotate: false
-  xy: 1513, 196
+  xy: 652, 508
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/PastureLow
   rotate: false
-  xy: 1585, 428
+  xy: 652, 428
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/PastureUp
   rotate: false
-  xy: 1585, 348
+  xy: 724, 508
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Pearls
   rotate: false
-  xy: 1585, 268
+  xy: 724, 428
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Pearls2
   rotate: false
-  xy: 1585, 188
+  xy: 652, 348
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plains
   rotate: false
-  xy: 1657, 420
+  xy: 724, 348
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plains Hill
   rotate: false
-  xy: 1657, 340
+  xy: 796, 500
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plains Hill2
   rotate: false
-  xy: 1657, 260
+  xy: 796, 420
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plains+Hill+Fallout
   rotate: false
-  xy: 1657, 196
+  xy: 796, 356
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plains+Hill+Fallout2
   rotate: false
-  xy: 1513, 132
+  xy: 580, 5
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plantation
   rotate: false
-  xy: 1585, 116
+  xy: 796, 284
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plantation-Pillaged
   rotate: false
-  xy: 1657, 124
+  xy: 1585, 356
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Plantation-Pillaged2
   rotate: false
-  xy: 1729, 412
+  xy: 1657, 348
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Polder
   rotate: false
-  xy: 1729, 340
+  xy: 868, 462
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Polder-Pillaged
   rotate: false
-  xy: 1729, 268
+  xy: 868, 390
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Polder-Pillaged2
   rotate: false
-  xy: 1729, 196
+  xy: 868, 318
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Quarry-Industrial era
   rotate: false
-  xy: 1729, 132
+  xy: 868, 254
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Quarry-Pillaged
   rotate: false
-  xy: 1801, 380
+  xy: 940, 436
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Quarry-Pillaged2
   rotate: false
-  xy: 1801, 308
+  xy: 940, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/QuarryT
   rotate: false
-  xy: 1801, 244
+  xy: 940, 300
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/QuarryT-Industrial era
   rotate: false
-  xy: 1801, 180
+  xy: 940, 236
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/QuarryT-Pillaged
   rotate: false
-  xy: 1801, 108
+  xy: 1012, 420
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Railroad-Pillaged
   rotate: false
-  xy: 1729, 60
+  xy: 1012, 348
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Road-Pillaged
   rotate: false
-  xy: 1729, 60
+  xy: 1012, 348
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Rice
   rotate: false
-  xy: 1657, 44
+  xy: 1012, 268
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/River-Bottom
   rotate: false
-  xy: 1801, 28
+  xy: 1012, 188
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/River-BottomLeft
   rotate: false
-  xy: 1873, 360
+  xy: 1084, 408
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/River-BottomRight
   rotate: false
-  xy: 1873, 280
+  xy: 1084, 328
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 1873, 216
+  xy: 1084, 264
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sahara el Beyda
   rotate: false
-  xy: 1873, 136
+  xy: 1084, 184
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sahara el Beyda2
   rotate: false
-  xy: 1873, 56
+  xy: 1156, 372
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sahara el Beyda3
   rotate: false
-  xy: 1945, 360
+  xy: 1228, 372
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Salt
   rotate: false
-  xy: 1945, 280
+  xy: 1156, 292
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sheep
   rotate: false
-  xy: 1945, 200
+  xy: 1156, 212
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sheep2
   rotate: false
-  xy: 1945, 120
+  xy: 1228, 292
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
-TileSets/UnTile/Tiles/Silk
-  rotate: false
-  xy: 1945, 56
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/UnTile/Tiles/Silk+Plantation
   rotate: false
-  xy: 436, 533
+  xy: 1228, 228
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Silver
   rotate: false
-  xy: 436, 453
+  xy: 1156, 132
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow
   rotate: false
-  xy: 436, 373
+  xy: 1228, 148
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow Hill
   rotate: false
-  xy: 400, 293
+  xy: 1228, 68
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow Hill2
   rotate: false
-  xy: 400, 213
+  xy: 1300, 312
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow+Hill+Fallout
   rotate: false
-  xy: 472, 309
+  xy: 1300, 248
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow+Hill+Fallout2
   rotate: false
-  xy: 472, 245
+  xy: 1300, 184
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Snow+Hill+Volcanic Soil
   rotate: false
-  xy: 472, 165
+  xy: 1300, 104
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Spices
   rotate: false
-  xy: 436, 101
+  xy: 652, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Spices+Plantation
   rotate: false
-  xy: 436, 37
+  xy: 724, 284
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sri Pada
   rotate: false
-  xy: 508, 85
+  xy: 652, 268
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Stone
   rotate: false
-  xy: 508, 5
+  xy: 1300, 24
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Stone+Quarry
   rotate: false
-  xy: 508, 485
+  xy: 652, 188
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sugar
   rotate: false
-  xy: 508, 421
+  xy: 724, 220
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Sugar+Plantation
   rotate: false
-  xy: 580, 492
+  xy: 796, 212
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Terrace Farm
   rotate: false
-  xy: 652, 492
+  xy: 652, 116
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Terrace farm-Pillaged
   rotate: false
-  xy: 580, 420
+  xy: 724, 148
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Terrace farm-Pillaged2
   rotate: false
-  xy: 652, 420
+  xy: 796, 140
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Trading post
   rotate: false
-  xy: 724, 428
+  xy: 868, 174
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Trading post-Pillaged
   rotate: false
-  xy: 544, 260
+  xy: 940, 156
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Trading post-Pillaged2
   rotate: false
-  xy: 544, 180
+  xy: 868, 94
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Trading postT-Pillaged
   rotate: false
-  xy: 580, 108
+  xy: 940, 84
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles
   rotate: false
-  xy: 580, 44
+  xy: 1012, 124
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+Camp
   rotate: false
-  xy: 724, 364
+  xy: 1084, 120
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+Camp-Industrial era
   rotate: false
-  xy: 652, 356
+  xy: 1156, 68
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+CampT
   rotate: false
-  xy: 616, 292
+  xy: 724, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Truffles+CampT-Industrial era
   rotate: false
-  xy: 616, 228
+  xy: 796, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra
   rotate: false
-  xy: 544, 340
+  xy: 724, 68
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra Hill
   rotate: false
-  xy: 760, 284
+  xy: 1012, 44
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra Hill2
   rotate: false
-  xy: 760, 204
+  xy: 1084, 40
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra+Hill+Fallout
   rotate: false
-  xy: 652, 132
+  xy: 796, 76
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 652, 68
+  xy: 1156, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra2
   rotate: false
-  xy: 688, 276
+  xy: 868, 14
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Tundra3
   rotate: false
-  xy: 688, 196
+  xy: 940, 4
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ubsunur Hollow
   rotate: false
-  xy: 724, 116
+  xy: 1372, 290
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ubsunur Hollow2
   rotate: false
-  xy: 724, 36
+  xy: 1372, 210
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Ubsunur Hollow3
   rotate: false
-  xy: 796, 124
+  xy: 1372, 130
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Uluru
   rotate: false
-  xy: 796, 44
+  xy: 1372, 50
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Uranium
   rotate: false
-  xy: 796, 372
+  xy: 1444, 284
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Volcanic Soil
   rotate: false
-  xy: 832, 292
+  xy: 1444, 204
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Volcanic Soil2
   rotate: false
-  xy: 832, 212
+  xy: 1444, 124
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Volcanic Soil3
   rotate: false
-  xy: 868, 132
+  xy: 1444, 44
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Volcano
   rotate: false
-  xy: 868, 52
+  xy: 1516, 276
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Whales
   rotate: false
-  xy: 904, 314
+  xy: 1516, 196
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Wheat
   rotate: false
-  xy: 904, 234
+  xy: 1516, 116
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Wine
   rotate: false
-  xy: 652, 4
+  xy: 1228, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Wine+Plantation
   rotate: false
-  xy: 976, 316
+  xy: 1516, 52
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Yosemite
   rotate: false
-  xy: 976, 236
+  xy: 1588, 268
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/Tiles/Yosemite2
   rotate: false
-  xy: 1048, 260
+  xy: 1588, 188
   size: 64, 72
   orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/UnTile/TopBorder
   rotate: false
-  xy: 1153, 672
+  xy: 1156, 452
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
